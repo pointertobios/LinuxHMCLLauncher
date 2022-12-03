@@ -1,0 +1,5 @@
+ [Desktop Entry]
+ Name=Linux HMCL Launcher
+ Exec=hmcl
+ Icon=/opt/hmcl/icon.png
+ Type=Application
