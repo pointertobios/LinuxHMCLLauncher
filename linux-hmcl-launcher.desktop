@@ -1,5 +1,6 @@
- [Desktop Entry]
- Name=Linux HMCL Launcher
- Exec=hmcl
- Icon=/opt/hmcl/icon.png
- Type=Application
+[Desktop Entry]
+Name=Linux HMCL Launcher
+Exec=hmcl
+Icon=/opt/hmcl/icon.png
+Type=Application
+Categories=Game;
